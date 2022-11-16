@@ -6,7 +6,6 @@ void main()
 
     a=132;
     b=999;
-  
     a=a+b;
     b=a-b;
     a=a-b;

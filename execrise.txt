@@ -1,0 +1,7 @@
+--> write a programe to findout which triagnle is greater accpet height and base from user
+
+write a program to accept age from user in years. display message "you are eligible for voting" if age is above or equal to 18
+
+write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
+
+write a program to findout whether given number is odd or even
