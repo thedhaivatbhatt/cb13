@@ -5,3 +5,24 @@ write a program to accept age from user in years. display message "you are eligi
 write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
 
 write a program to findout whether given number is odd or even
+
+10) Write a C program to calculate final electricity bill based upon below given criteria. take monthly electricity unit from user as input. 
+units           price  per unit 
+<100            1
+>100 & <200     2 
+>200 & <300     3
+>300 & <400     4
+>400            5
+
+write a program to findout smallest triangle from 3 triangle using base and height given by user 
+
+write a prorame to make calculator
+given option as below
+->addition
+->subtraction
+->multiplication
+->division
+->modulas
+->minimum
+->maximum
+->equality
