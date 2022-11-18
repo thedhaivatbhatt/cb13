@@ -27,5 +27,5 @@ given option as below
 ->maximum
 ->equality
 
-write a programe to find zodiac sogn of user 
+write a programe to find zodiac sign of user 
 https://in.pinterest.com/pin/81698180718875314/
