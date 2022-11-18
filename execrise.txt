@@ -26,3 +26,6 @@ given option as below
 ->minimum
 ->maximum
 ->equality
+
+write a programe to find zodiac sogn of user 
+https://in.pinterest.com/pin/81698180718875314/
