@@ -29,3 +29,14 @@ given option as below
 
 write a programe to find zodiac sign of user 
 https://in.pinterest.com/pin/81698180718875314/
+
+//write a program to findout bmi of user and decide and print his/her obecity level
+https://www.hdfclife.com/financial-tools-calculators/bmi-calculator
+/*
+    Category	    BMI range - kg/m2
+    underweight	     <18.5
+    Normal	         18.5 - 25
+    Overweight	     25 - 30
+    Obese Class I	 30 - 35
+    Obese Class II	 35 - 40 */
+    

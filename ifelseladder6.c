@@ -24,6 +24,6 @@ void main()
     printf("\nEnter 7 for Neptune  ");
     printf("\nEnter 8 for Uranus  ");
     scanf("%d", &planet2);
-
+    
 
 }
