@@ -16,6 +16,9 @@ units           price  per unit
 
 write a program to findout smallest triangle from 3 triangle using base and height given by user 
 
+write a programe to findout distance between 2 planet form below given criteria
+https://www.jpl.nasa.gov/edu/pdfs/scaless_reference.pdf
+
 write a prorame to make calculator
 given option as below
 ->addition
