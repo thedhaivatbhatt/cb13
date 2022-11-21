@@ -40,3 +40,7 @@ https://www.hdfclife.com/financial-tools-calculators/bmi-calculator
     Obese Class I	 30 - 35
     Obese Class II	 35 - 40 */
     
+write a programe to print 3 digit number in words 
+
+write a programe to print your name using ascii values 
+https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
