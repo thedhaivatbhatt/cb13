@@ -47,3 +47,8 @@ write a programe to print 3 digit number in words
 
 write a programe to print your name using ascii values 
 https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
+
+Write a programe to print following pattern 
+1,4,9,16.....8000
+
+write a program to print Even number ..4000
