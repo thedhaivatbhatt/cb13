@@ -67,4 +67,6 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 
 array
 --------------------------------
-Write a programe to find sum and average of given 5 criketer runs and minimum runs 
+Write a programe to find sum and average of given 5 criketer runs and minimum runs
+
+Write a programe to sort an array in ascending order
