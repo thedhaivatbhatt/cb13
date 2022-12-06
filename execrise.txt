@@ -70,3 +70,7 @@ array
 Write a programe to find sum and average of given 5 criketer runs and minimum runs
 
 Write a programe to sort an array in ascending order
+
+Write a programe to count number of letter in the given name 
+
+Write a programe to count total number of vowels in the given name 
