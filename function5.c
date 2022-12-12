@@ -51,7 +51,7 @@ void main()
     float answer;
     do 
     {
-        printf("Enter value of num1 ");
+    printf("Enter value of num1 ");
     scanf("%d", &num1);
     printf("Enter value of num2 ");
     scanf("%d", &num2);

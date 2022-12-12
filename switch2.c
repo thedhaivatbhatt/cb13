@@ -18,7 +18,7 @@ void main()
     scanf("%d", &num2);
 
     printf("Enter 1 for addition \nEnter 2 for subtraction \nEnter 3 for multiplication \nEnter 4 for divison \nEnter 5 for modlus \nEnter 6 for minimum \nEnter 7 for maximum \nEnter 8 for equality ");
-    scanf("%d", &option);
+    scanf("%d",&option);
     switch (option)
     {
     case 1:
